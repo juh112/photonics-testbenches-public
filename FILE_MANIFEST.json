@@ -1,0 +1,164 @@
+[
+  {
+    "source": "film_characterization/figures/film_bench.png",
+    "included": "film_characterization/figures/film_bench.png",
+    "action": "include",
+    "sha256": "6f79823eda50c882cd343f055e384d18c371db71c1ad12a563c70f71859b6006"
+  },
+  {
+    "source": "film_characterization/figures/film_quartz_control.png",
+    "included": "film_characterization/figures/film_quartz_control.png",
+    "action": "include",
+    "sha256": "50d74edf3e72ddd493c391ddf6acebfae72666de63e9eb9125af66db9308a380"
+  },
+  {
+    "source": "film_characterization/figures/spectral_film_results.png",
+    "included": "film_characterization/figures/spectral_film_results.png",
+    "action": "include",
+    "sha256": "b543bbc4927f09ebdc5aa67fb986b5cb3d78bfd32ce3b7a3f4972eb54d0de8f3"
+  },
+  {
+    "source": "film_characterization/figures/polarization_noise_comparison.png",
+    "included": "film_characterization/figures/polarization_noise_comparison.png",
+    "action": "include",
+    "sha256": "49431ea2923810b64f9a9eda3fc260636935280d3a4d0bb5ec5831a2761352ad"
+  },
+  {
+    "source": "nv_center/figures/optical_bench.png",
+    "included": "nv_center/figures/optical_bench.png",
+    "action": "include",
+    "sha256": "594a9e27470c204a09e89278119409e01ae26dcef1ddb766a755655468a52310"
+  },
+  {
+    "source": "nv_center/figures/pcb_assembly.png",
+    "included": "nv_center/figures/pcb_assembly.png",
+    "action": "include",
+    "sha256": "73460f534fd170f5076e7fe45edb687ed423251d01ed6e29c8db982abc44583e"
+  },
+  {
+    "source": "nv_center/figures/pcb_sample_mount.png",
+    "included": "nv_center/figures/pcb_sample_mount.png",
+    "action": "include",
+    "sha256": "9a86a5abb7f7a6d417e27984471a224ba715052d886588b5ed590514137351d1"
+  },
+  {
+    "source": "nv_center/figures/wafer_pl.png",
+    "included": "nv_center/figures/wafer_pl.png",
+    "action": "include",
+    "sha256": "2fa8fb0443cd390f6a0ae9b5bd76bee8885c1d5ce5fb5f97fbfdcebfd5090e6d"
+  },
+  {
+    "source": "nv_center/figures/pickup_filter_comparison.png",
+    "included": "nv_center/figures/pickup_filter_comparison.png",
+    "action": "include",
+    "sha256": "29cb09240d4b5b0c32d6ea1a247cce6636cc0097cfd8313c049215ba4305eee7"
+  },
+  {
+    "source": "nv_center/figures/pcb_wide_s11.png",
+    "included": "nv_center/figures/pcb_wide_s11.png",
+    "action": "include",
+    "sha256": "fb3018edd0c485e23409e2b2fd3f68e882b3fae160e54acebc92d0d6914a8b9f"
+  },
+  {
+    "source": "oscilloscope_analysis/results/scope_dashboard.png",
+    "included": "oscilloscope_analysis/results/scope_dashboard.png",
+    "action": "include",
+    "sha256": "0824a0a0d29ba1bb1d0d86ca6c9c47930ab5d592cd9d5673fd81d11f822403b4"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/S2_explained_EN.png",
+    "included": "nv_center/pcb_feasibility/out/S2_explained_EN.png",
+    "action": "include",
+    "sha256": "898df253c2fd303abe92fe739e7a3cedb455fffd58c041dc7b3e6a239716639c"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/v1_boards_B1_comparison.png",
+    "included": "nv_center/pcb_feasibility/out/em_sim/v1_boards_B1_comparison.png",
+    "action": "include",
+    "sha256": "8c3b0c80b09f90a8f76cca8a52e834449b5dcda641e3e06343162832d3cfa2cb"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/em_sim_summary.txt",
+    "included": "nv_center/pcb_feasibility/out/em_sim/em_sim_summary.txt",
+    "action": "include",
+    "sha256": "e3e1be83138368a71aa69ae4104e6e97317cce98b5421bdb8288ffac1ad8ac80"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/S_SASAKI/S_SASAKI_preview.png",
+    "included": "nv_center/pcb_feasibility/out/S_SASAKI/S_SASAKI_preview.png",
+    "action": "include",
+    "sha256": "3f09ed7268c722cafad7d61c243ce4c71f0ede4251334743fb4ef68e8da9ce7b"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/S2_SASAKI_G12/S2_SASAKI_G12_preview.png",
+    "included": "nv_center/pcb_feasibility/out/S2_SASAKI_G12/S2_SASAKI_G12_preview.png",
+    "action": "include",
+    "sha256": "dbcdc52f89780f34ec1eb35c550de8acd6c4bd8b3f07841571e707dc87436d7d"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/A1_LOOP1/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/A1_LOOP1/sparams.csv",
+    "action": "include",
+    "sha256": "e394507ac65bb0c421000554bcc846750b073b31d70f27ff2ed831324ff8d4c5"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/B2_LINE01/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/B2_LINE01/sparams.csv",
+    "action": "include",
+    "sha256": "902eb581780db739ca502975dee36da926330c4bcf70fd1c75ba697e099eb4de"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/T_THRU/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/T_THRU/sparams.csv",
+    "action": "include",
+    "sha256": "5a7ae214435a4bf325b9d911b0af78448f9a7e6bc60d031a3aafb35fe77e50fc"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/B_LINE/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/B_LINE/sparams.csv",
+    "action": "include",
+    "sha256": "fbb1907a9f92259d188d96fee927a3b68ac97686e299903982029103e2d1339a"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/B2_LINE01_r2/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/B2_LINE01_r2/sparams.csv",
+    "action": "include",
+    "sha256": "ceb7dba0254091766713d1e898c57a6f336ec388fef9743b53fc7ff762758296"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/S_SASAKI/S_SASAKI_em.png",
+    "included": "nv_center/pcb_feasibility/out/em_sim/S_SASAKI/S_SASAKI_em.png",
+    "action": "include",
+    "sha256": "5ba37f19b72bb18f678e1e89f4e3211b1795934179680e0ba64695ea98696008"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/S_SASAKI/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/S_SASAKI/sparams.csv",
+    "action": "include",
+    "sha256": "8771fc4ec41bd265c0c4acf75dcc952834048b87da97d19ecac24e8a76917e0f"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/B3_LINE01_DC/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/B3_LINE01_DC/sparams.csv",
+    "action": "include",
+    "sha256": "e089d03b806be20f804b25a99fd34d87b5295b1b440a92dca8474f7768554b4e"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/S2_SASAKI_G12/S2_SASAKI_G12_em.png",
+    "included": "nv_center/pcb_feasibility/out/em_sim/S2_SASAKI_G12/S2_SASAKI_G12_em.png",
+    "action": "include",
+    "sha256": "77578b2780b3b48da42d0a8a8d98f04ad35b22fec4834881443b5522ba9e0c6f"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/S2_SASAKI_G12/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/S2_SASAKI_G12/sparams.csv",
+    "action": "include",
+    "sha256": "8fdcc277b52ead07c144f26b723425e904c6c26fcc82dadec111f0ece37085a2"
+  },
+  {
+    "source": "nv_center/pcb_feasibility/out/em_sim/A2_LOOP2/sparams.csv",
+    "included": "nv_center/pcb_feasibility/out/em_sim/A2_LOOP2/sparams.csv",
+    "action": "include",
+    "sha256": "38c61ba4ae348bf2f30271f217b0e5e0b8106cff13e1f8943cf48017ed8b0b7d"
+  }
+]
