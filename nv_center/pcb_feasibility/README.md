@@ -86,8 +86,6 @@ These values are read directly from the attached simulation exports, without rer
 | Optical validation | RF-off/on, laser-off, repeat/order controls | Candidate-response investigation; reproducible ODMR not established |
 | Photonic-chip interface | On-chip antenna modeling (not included in this public selection) | Separate integration study |
 
-The supplied design notes are dated October 1, 2026 and label the openEMS studies October 4, 2026. These are document dates, not independently reconstructed execution timestamps. File ordering is not used to infer when later hardware tests occurred.
-
 ## Methods and selected data
 
 The private implementation generates PCB copper geometry, runs openEMS FDTD and processes S-parameters and field dumps. An earlier quasi-static field estimate is a separate approximation from FDTD. Source code and manufacturing outputs are retained privately.
