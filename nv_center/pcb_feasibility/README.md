@@ -88,7 +88,7 @@ These values are read directly from the attached simulation exports, without rer
 
 ## Methods and selected data
 
-The private implementation generates PCB copper geometry, runs openEMS FDTD and processes S-parameters and field dumps. An earlier quasi-static field estimate is a separate approximation from FDTD. Source code and manufacturing outputs are retained privately.
+The private implementation generates PCB copper geometry, runs openEMS FDTD and processes S-parameters and field dumps. A quasi-static field estimate is a separate approximation from FDTD. Source code and manufacturing outputs are retained privately.
 
 [Stored simulation summary](out/em_sim/em_sim_summary.txt) and board-specific `sparams.csv` files under `out/em_sim/` provide selected numerical results. Raw solver field dumps are not distributed, so this subset does not regenerate the field maps. Historical estimates and planned tests are not treated as validated measurements.
 
