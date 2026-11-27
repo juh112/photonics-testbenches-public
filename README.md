@@ -77,3 +77,16 @@ Python automation coordinates field targets, analyzer rotation, repeated optical
 - [Complete publication list](https://scholar.google.com/citations?user=5lNOIBEAAAAJ&hl=en)
 
 [Content and evidence notes](CONTENT_NOTES.md)
+
+## Research status and future updates
+
+This repository is a growing collection of optical, microwave, and measurement-automation studies. New experiments can be added as independent folders with their own setup, controls, analysis, results, and limitations; existing experiment links remain stable.
+
+| Workstream | Current evidence | Future additions |
+|---|---|---|
+| **Optical materials & polarization** | Film/substrate controls and wavelength/field comparisons | Additional materials, wavelengths, repeatability tests, and uncertainty analysis |
+| **NV optical & microwave experiments** | Optical bench, PCB test vehicles, RF modeling, VNA and optical controls | Improved microwave delivery, background rejection, and controlled ODMR investigations |
+| **Signal processing** | Measured oscilloscope traces, FFT, harmonic fits, and residual checks | Multi-run comparisons, calibration, and uncertainty-aware extraction |
+| **Instrument automation** | Acquisition workflows and instrument roles | New instruments, reproducible scripts, metadata, and test protocols |
+
+**Evidence convention:** a working testbench or simulated RF field does not by itself demonstrate a sensor response. ODMR and integrated quantum-device operation are not claimed as validated results. Add future findings with dated measurements, relevant controls, and supporting files, subject to confidentiality and IP review.
